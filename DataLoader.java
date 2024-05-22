@@ -9,6 +9,7 @@ public class DataLoader {
     }
 
     public static ArrayList<String> getCategories() {
+        String hi;
         return new ArrayList<String>();
     }
 }
