@@ -7,4 +7,8 @@ public class DataLoader {
     public static ArrayList<Recipe> getRecipes() {
         return new ArrayList<Recipe>();
     }
+
+    public static ArrayList<String> getCategories() {
+        return new ArrayList<String>();
+    }
 }
