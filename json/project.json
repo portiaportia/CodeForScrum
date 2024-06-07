@@ -1,0 +1,31 @@
+[
+  {
+  "id": 101,
+  "name": "Sample Scrum Project",
+  "description": "This is a sample Scrum project using our project management tool.",
+  "start_date": "2023-10-20",
+  "end_date": "2023-12-31",
+  "status": "active",
+  "created_by": 1,  // Points to the user ID who created the project
+  "members": [1, 2, 3],  // Array containing user IDs of project members
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Feature Development",
+      "description": "Implement new features for the project management tool.",
+      "assignee": 2,  // Points to the user ID responsible for the task
+      "due_date": "2023-11-15",
+      "status": "in_progress"
+    },
+    {
+      "id": 2,
+      "title": "Bug Fixing",
+      "description": "Address and fix any bugs in the application.",
+      "assignee": 3,
+      "due_date": "2023-11-30",
+      "status": "not_started"
+    }
+  ],
+  "created_at": "2023-10-20T08:30:00Z"
+}
+]
