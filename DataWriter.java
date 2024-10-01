@@ -8,6 +8,6 @@ public class DataWriter {
     }
 
     public static boolean saveRecipes() {
-        return true;
+        return false;
     }
 }
