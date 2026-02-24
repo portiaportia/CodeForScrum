@@ -6,4 +6,8 @@ public class RecipeApplication {
     public void init() {
         System.out.println("hello");
     }
+
+    public String toString() {
+        return "";
+    }
 }
