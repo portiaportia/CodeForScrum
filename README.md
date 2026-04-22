@@ -2,4 +2,4 @@
 Here is a blurb about my project
 
 ## Requirements
-[Requirements Document](docs/requirements.pdf)
+📑 [Requirements Document](docs/requirements.pdf)
