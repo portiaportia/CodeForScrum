@@ -1,4 +1,4 @@
-# Project Title
+# Creativity Stream
 Somewhere along the way, humanity went from “thinking outside the box” to “copying whatever the box says.” With the rise of AI, more people are becoming expert regurgitators—highly efficient, impressively bland, and just creative enough to hit **Ctrl+C** and **Ctrl+V** with confidence.
 
 This Java-based project exists to interrupt that tragic arc. Its mission: to nudge brains back into action, spark original thought, and remind people that creativity didn’t go extinct—it just got a *little… outsourced*.
