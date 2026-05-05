@@ -16,6 +16,12 @@ Think of it as a gym for your **imagination**. No shortcuts, no auto-complete fo
 
 ![uml sequence diagram](docs/images/uml-sequence.png) [UML Sequence Diagram](docs/uml-sequence.pdf)
 
+## Project Board
+![scrum board](docs/images/scrum.png) [Project Board](https://github.com/users/portiaportia/projects/2)
+
+## Prototype
+![uml sequence diagram](docs/images/prototype.png) [Prototype](docs/prototype.pdf)
+
 ## Presentation
 
 [![Scarlet Playing Guitar](docs/images/video.png)Presentation Video](https://youtu.be/C3KWnqOBBo4)
